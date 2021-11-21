@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello <img alt="👋🏻" src="./_assets/Hello.gif" width='40' />, This is Ritik Tiwari</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=A+Web+Developer+Enthusiast;2nd+Year+Undergrad+Student;Want+to+Learn+BlockChain;">
+<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=A+Web+Developer+Enthusiast;2nd+Year+Undergrad+Student;">
 </p>
 
 
@@ -9,9 +9,7 @@
 <br/>
 
 ## 🌱 I’m currently learning ...
-- Node JS
-- Express JS
-- React JS
+- Blockchain
 
 ## 👯 I’m looking to collaborate on ...
 - Web Development
@@ -53,17 +51,24 @@
 <a href="https://auth.geeksforgeeks.org/user/theritiktiwari/profile" target="_blank"><img src="https://shields.io/badge/-Geeks%20For%20Geeks-008F3E?style=for-the-badge&logo=GeeksForGeeks&logoColor=FFF" /></a>&nbsp;
 
 ## 🧰 Languages and Tools ...
+
+
+
 ![C](https://shields.io/badge/C-6063C5?style=for-the-badge&logo=C&logoColor=FFF)
 ![C++](https://shields.io/badge/C++-578EC8?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://shields.io/badge/python-246A9E?style=for-the-badge&logo=python&logoColor=FFDC00)
 ![HTML5](https://shields.io/badge/html-E34C26?style=for-the-badge&logo=html5&logoColor=FFF)
 ![CSS3](https://shields.io/badge/css-0071C2?style=for-the-badge&logo=css3&logoColor=FFF)
-![PHP](https://shields.io/badge/php-8993BE?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://shields.io/badge/php-8993BE?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=F29111)
-![MongoDB](https://shields.io/badge/mongodb-E8E7D5?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+![Firebase](https://shields.io/badge/firebase-6E6E6E?style=for-the-badge&logo=firebase&logoColor=F8C500)
 ![Bootstrap](https://shields.io/badge/bootstrap-F5F5F5?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![Tailwind CSS](https://shields.io/badge/tailwind%20css-151C2E?style=for-the-badge&logo=tailwindcss&logoColor=00C1CF)
+![MongoDB](https://shields.io/badge/mongodb-E8E7D5?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
+![Express JS](https://shields.io/badge/express%20js-F5F5F5?style=for-the-badge&logo=express&logoColor=1D3042)
+![React JS](https://shields.io/badge/react%20js-F5F5F5?style=for-the-badge&logo=react&logoColor=00CEF8)
+![Node JS](https://shields.io/badge/node%20js-303030?style=for-the-badge&logo=node.js&logoColor=008F3E)
 ![GIT](https://shields.io/badge/git-F5F5F5?style=for-the-badge&logo=git&logoColor=F34F29)
 ![GitHub](https://shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://shields.io/badge/vs%20code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
