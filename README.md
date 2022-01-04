@@ -69,6 +69,7 @@
 ![Express JS](https://shields.io/badge/express%20js-F5F5F5?style=for-the-badge&logo=express&logoColor=1D3042)
 ![React JS](https://shields.io/badge/react%20js-F5F5F5?style=for-the-badge&logo=react&logoColor=00CEF8)
 ![Node JS](https://shields.io/badge/node%20js-303030?style=for-the-badge&logo=node.js&logoColor=008F3E)
+![SASS](https://shields.io/badge/sass-CD6799?style=for-the-badge&logo=sass&logoColor=FFFFFF)
 ![GIT](https://shields.io/badge/git-F5F5F5?style=for-the-badge&logo=git&logoColor=F34F29)
 ![GitHub](https://shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://shields.io/badge/vs%20code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
