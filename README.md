@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello <img alt="👋🏻" src="./_assets/Hello.gif" width='40' />, This is Ritik Tiwari</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=A+Web+Developer+Enthusiast;2nd+Year+Undergrad+Student;">
+<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=A+Web+Developer+Enthusiast;Pre-Final+Year+Undergrad+Student;">
 </p>
 
 
@@ -27,6 +27,7 @@
 
 
 ## 📫 Reach me through ...
+<a href="https://theritiktiwari.web.app" target="_blank"><img src="https://shields.io/badge/portfolio-0060FF?style=for-the-badge&logo=portfolio&logoColor=EA4335" /></a>&nbsp;
 <a href="mailto:theritiktiwari@gmail.com" target="_blank"><img src="https://shields.io/badge/email-DDD?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>&nbsp;
 <a href="https://theritiktiwari.blogspot.com" target="_blank"><img src="https://shields.io/badge/blog-FC4F08?style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;
 
@@ -39,7 +40,6 @@
 <a href="https://facebook.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
 <a href="https://twitter.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCaTiS60yVc1MJods9sFFtuw" target="_blank"><img src="https://shields.io/badge/youtube-F00?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;
-<a href="https://www.telegram.me/theritiktiwari_bot" target="_blank"><img src="https://shields.io/badge/telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=FFF" /></a>&nbsp;
 
     
     
@@ -77,7 +77,7 @@
 
     
 ## 🎗 Support ...
-<a href="https://www.buymeacoffee.com/theritiktiwari"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="theritiktiwari" /></a>
+<a href="https://www.buymeacoffee.com/theritiktiwari"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="50" width="210" alt="theritiktiwari" /></a>
 
 <br/><br/><br/>
 
