@@ -8,18 +8,23 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=theritiktiwari&label=Visitors&color=0E75B6&style=plastic" alt="theritiktiwari" />
 <br/>
 
+
 ## 🌱 I’m currently learning ...
 - Blockchain
+
 
 ## 👯 I’m looking to collaborate on ...
 - Web Development
 
+
 ## 👷🏻‍♂️ I've made a contribution in ...
 <a href="https://www.github.com/codingwalls" target="_blank"><img src="https://shields.io/badge/CodingWalls-50009F?style=for-the-badge" /></a>
+
 
 ## 📄 All of my projects on ...
 <a href="https://www.github.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
 <a href="https://www.codepen.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/codepen-333?style=for-the-badge&logo=codepen&logoColor=white" /></a>&nbsp;
+
 
 ## 💬 Inquire about ...
 - Web Development
@@ -32,17 +37,14 @@
 <a href="https://theritiktiwari.blogspot.com" target="_blank"><img src="https://shields.io/badge/blog-FC4F08?style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;
 
 
-
 ## 🤝 Connect with me ...
-
 <a href="https://linkedin.com/in/theritiktiwari" target="_blank"><img src="https://shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://instagram.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/instagram-BC2A8D?style=for-the-badge&logo=instagram&logoColor=FFF" /></a>&nbsp;
 <a href="https://facebook.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
 <a href="https://twitter.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UCaTiS60yVc1MJods9sFFtuw" target="_blank"><img src="https://shields.io/badge/youtube-F00?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;
 
-    
-    
+     
 ## 👨🏻‍💻 Coding Profiles ...
 <a href="https://www.hackerrank.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/-HackerRank-00BF5A?style=for-the-badge&logo=Hackerrank&logoColor=0D131F" /></a>&nbsp;
 <a href="https://www.hackerearth.com/@theritiktiwari" target="_blank"><img src="https://shields.io/badge/-HackerEarth-2C3156?style=for-the-badge&logo=Hackerearth&logoColor=FFF" /></a>&nbsp;
@@ -50,10 +52,8 @@
 <a href="https://www.codechef.com/users/theritiktiwari" target="_blank"><img src="https://shields.io/badge/-CodeChef-E4E0C8?style=for-the-badge&logo=Codechef&logoColor=753A0B" /></a>&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/theritiktiwari/profile" target="_blank"><img src="https://shields.io/badge/-Geeks%20For%20Geeks-008F3E?style=for-the-badge&logo=GeeksForGeeks&logoColor=FFF" /></a>&nbsp;
 
+
 ## 🧰 Languages and Tools ...
-
-
-
 ![C](https://shields.io/badge/C-6063C5?style=for-the-badge&logo=C&logoColor=FFF)
 ![C++](https://shields.io/badge/C++-578EC8?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://shields.io/badge/python-246A9E?style=for-the-badge&logo=python&logoColor=FFDC00)
@@ -89,6 +89,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theritiktiwari&show_icons=true&title_color=2AA889&icon_color=599CAB&text_color=99D1CE&bg_color=0C1014&include_all_commits=true&count_private=true" alt="theritiktiwari" width="450" height="250"/></p>
     
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=theritiktiwari&theme=gotham" alt="theritiktiwari"/></p>
-    
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=theritiktiwari&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" alt="theritiktiwari"/></p>
-</a>
