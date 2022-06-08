@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello <img alt="👋🏻" src="./_assets/Hello.gif" width='40' />, This is Ritik Tiwari</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=A+Web+Developer+Enthusiast;Pre-Final+Year+Undergrad+Student;">
+<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=Full-Stack+Developer;Pre-Final+Year+Undergrad+Student;BlockChain+Enthusiast;">
 </p>
 
 
@@ -14,7 +14,7 @@
 
 
 ## 👯 I’m looking to collaborate on ...
-- Web Development
+- Web Development Projects
 
 
 ## 👷🏻‍♂️ I've made a contribution in ...
