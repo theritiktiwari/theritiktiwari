@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello <img alt="👋🏻" src="./_assets/Hello.gif" width='40' />, This is Ritik Tiwari</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=Full-Stack+Developer;Pre-Final+Year+Undergrad+Student;BlockChain+Enthusiast;">
+<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=Full-Stack+Developer;BlockChain+Enthusiast;Pre-Final+Year+Undergrad+Student;">
 </p>
 
 
@@ -24,7 +24,7 @@
 
 ## 📄 All of my projects on ...
 <a href="https://www.github.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://www.codepen.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/codepen-333?style=for-the-badge&logo=codepen&logoColor=white" /></a>&nbsp;
+<a href="https://www.codepen.io/theritiktiwari" target="_blank"><img src="https://shields.io/badge/codepen-333?style=for-the-badge&logo=codepen&logoColor=white" /></a>&nbsp;
 
 
 ## 💬 Inquire about ...
@@ -41,17 +41,16 @@
 ## 🤝 Connect with me ...
 <a href="https://linkedin.com/in/theritiktiwari" target="_blank"><img src="https://shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://instagram.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/instagram-BC2A8D?style=for-the-badge&logo=instagram&logoColor=FFF" /></a>&nbsp;
-<a href="https://facebook.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;
 <a href="https://twitter.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCaTiS60yVc1MJods9sFFtuw" target="_blank"><img src="https://shields.io/badge/youtube-F00?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;
 
      
 ## 👨🏻‍💻 Coding Profiles ...
-<a href="https://www.hackerrank.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/-HackerRank-00BF5A?style=for-the-badge&logo=Hackerrank&logoColor=0D131F" /></a>&nbsp;
-<a href="https://www.hackerearth.com/@theritiktiwari" target="_blank"><img src="https://shields.io/badge/-HackerEarth-2C3156?style=for-the-badge&logo=Hackerearth&logoColor=FFF" /></a>&nbsp;
+
 <a href="https://www.leetcode.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/-Leetcode-FF9E00?style=for-the-badge&logo=Leetcode&logoColor=070706" /></a>&nbsp;
 <a href="https://www.codechef.com/users/theritiktiwari" target="_blank"><img src="https://shields.io/badge/-CodeChef-E4E0C8?style=for-the-badge&logo=Codechef&logoColor=753A0B" /></a>&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/theritiktiwari/profile" target="_blank"><img src="https://shields.io/badge/-Geeks%20For%20Geeks-008F3E?style=for-the-badge&logo=GeeksForGeeks&logoColor=FFF" /></a>&nbsp;
+<a href="https://www.hackerearth.com/@theritiktiwari" target="_blank"><img src="https://shields.io/badge/-HackerEarth-2C3156?style=for-the-badge&logo=Hackerearth&logoColor=FFF" /></a>&nbsp;
+<a href="https://www.hackerrank.com/theritiktiwari" target="_blank"><img src="https://shields.io/badge/-HackerRank-00BF5A?style=for-the-badge&logo=Hackerrank&logoColor=0D131F" /></a>&nbsp;
 
 
 ## 🧰 Languages and Tools ...
