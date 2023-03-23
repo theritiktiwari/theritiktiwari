@@ -33,9 +33,9 @@
 
 
 ## 📫 Reach me through ...
-<a href="https://theritiktiwari.web.app" target="_blank"><img src="https://shields.io/badge/portfolio-0060FF?style=for-the-badge&logo=portfolio&logoColor=EA4335" /></a>&nbsp;
+<a href="https://theritiktiwari.vercel.app" target="_blank"><img src="https://shields.io/badge/portfolio-0060FF?style=for-the-badge&logo=portfolio&logoColor=EA4335" /></a>&nbsp;
 <a href="mailto:theritiktiwari@gmail.com" target="_blank"><img src="https://shields.io/badge/email-DDD?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>&nbsp;
-<a href="https://theritiktiwari.blogspot.com" target="_blank"><img src="https://shields.io/badge/blog-FC4F08?style=for-the-badge&logo=blogger&logoColor=white" /></a>&nbsp;
+<a href="https://medium.com/@theritiktiwari" target="_blank"><img src="https://shields.io/badge/blog-F9F9F9?style=for-the-badge&logo=blogger&logoColor=black" /></a>&nbsp;
 
 
 ## 🤝 Connect with me ...
