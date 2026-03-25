@@ -18,7 +18,7 @@
 - **🏗️ System & Database Architecture:** Expert in designing resilient backends using **Node.js/Express**, leveraging **PostgreSQL**, **MongoDB**, and **Redis** for caching and state management.
 - **🛠️ DevOps & Reliability:** Deeply committed to **Automated CI/CD (GitHub Actions)**, **Dockerization**, and **Cloud Infrastructure (AWS/Supabase)** to ensure 99.9% uptime and seamless deployment cycles.
 - **📈 Performance-Driven:** Specialized in **Web Vitals optimization**, database indexing, and writing clean, testable code that scales with user growth.
-- **📍 Mobility:** Currently Remote (India). Actively seeking high-impact **SDE-2** roles in **Bangalore** or **Pune**.
+- **📍 Mobility:** Currently Remote (India). Actively seeking high-impact roles in **Bangalore** or **Pune**.
 
 ---
 
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=theritiktiwari&theme=algolia&no-bg=true&no-frame=true&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" width="100%" />
+      <img src="https://github-trophies.vercel.app/?username=theritiktiwari&theme=algolia&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S" alt="Trophies" width="100%" />
       </td>
   </tr>
   <tr>
@@ -78,18 +78,18 @@
 
 ## 🤝 Connect & Collaborate
 <p align="left">
-  <a href="https://linkedin.com/in/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:theritiktiwari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://theritiktiwari.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://twitter.com/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:theritiktiwari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://theritiktiwari.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://twitter.com/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 ## 🏆 Competitive Programming
 <p align="left">
-  <a href="https://www.leetcode.com/u/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-FF9E00?style=for-the-badge&logo=Leetcode&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=Codechef&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/u/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-FF9E00?style=flat-square&logo=Leetcode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=Codechef&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-445f9d?style=flat-square&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=flat-square&logo=GeeksforGeeks&logoColor=white" /></a>
 </p>
 
 ---
