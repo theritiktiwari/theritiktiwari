@@ -79,8 +79,8 @@
 ## 🤝 Connect & Collaborate
 <p align="left">
   <a href="https://linkedin.com/in/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:theritiktiwari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://theritiktiwari.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:contact@ritiktiwari.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://ritiktiwari.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://twitter.com/theritiktiwari" target="_blank"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
